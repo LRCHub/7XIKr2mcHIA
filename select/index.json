@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "オオエドランヴ",
+  "base_artist": "Reol",
+  "createdAt": "2025-12-24T06:25:57.801398Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "オオエドランヴ",
+      "artist": "れをる",
+      "has_synced": false,
+      "path": "select/01_オオエドランヴ_れをる.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "オオエドランヴ",
+      "artist": "れをる ; nqrse",
+      "has_synced": false,
+      "path": "select/02_オオエドランヴ_れをる_;_nqrse.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "オオエドランヴ (feat. nqrse)",
+      "artist": "Reol feat. nqrse",
+      "has_synced": true,
+      "path": "select/03_オオエドランヴ_(feat._nqrse)_Reol_feat._nqrse.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "オオエドランヴ (feat. nqrse) [Great Edo Rendezvous]",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/04_オオエドランヴ_(feat._nqrse)_[Great_Edo_Rendezvous]_Reol.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "オオエドランヴ",
+      "artist": "REOL feat. nqrse",
+      "has_synced": true,
+      "path": "select/05_オオエドランヴ_REOL_feat._nqrse.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "オオエドランヴ",
+      "artist": "ギガP feat. Reol",
+      "has_synced": true,
+      "path": "select/06_オオエドランヴ_ギガP_feat._Reol.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "オオエドランヴ",
+      "artist": "REOL",
+      "has_synced": true,
+      "path": "select/07_オオエドランヴ_REOL.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "オオエドランヴ (feat nqrse)",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/08_オオエドランヴ_(feat_nqrse)_Reol.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "オオエドランヴ",
+      "artist": "GigaP feat. Reol, nqrse",
+      "has_synced": true,
+      "path": "select/09_オオエドランヴ_GigaP_feat._Reol,_nqrse.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "オオエドランヴ",
+      "artist": "Giga",
+      "has_synced": true,
+      "path": "select/10_オオエドランヴ_Giga.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "オオエドランヴ",
+      "artist": "Giga feat. Reol",
+      "has_synced": true,
+      "path": "select/11_オオエドランヴ_Giga_feat._Reol.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "オオエドランヴ (feat. nqrse)",
+      "artist": "Reol; nqrse",
+      "has_synced": true,
+      "path": "select/12_オオエドランヴ_(feat._nqrse)_Reol;_nqrse.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "オオエドランヴ",
+      "artist": "nqrse",
+      "has_synced": true,
+      "path": "select/13_オオエドランヴ_nqrse.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "オオエドランヴ (feat. nqrse) (Paused)",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/14_オオエドランヴ_(feat._nqrse)_(Paused)_Reol.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "オオエドランヴ (feat․ nqrse)",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/15_オオエドランヴ_(feat._nqrse)_Reol.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "オオエドランヴ -十年物 Edition-",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/16_オオエドランヴ_-十年物_Edition-_Reol.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オオエドランヴ",
+      "artist": "REOL",
+      "has_synced": false,
+      "path": "select/pl_01_オオエドランヴ_REOL.txt"
+    }
+  ]
+}
